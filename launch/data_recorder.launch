@@ -1,0 +1,6 @@
+
+<launch>
+
+	<node pkg="cam_to_jpeg" type="cam_jpeg" name="save_jpg" output="screen" respawn="false"/>
+
+</launch>

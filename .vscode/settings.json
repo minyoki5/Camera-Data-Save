@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/minhyuk/ws_proj_07_final_project/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_06_pure_pursuit/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_05_perception/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_04_longitudinal_motion/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_03_lateral_dynamics/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_02_lateral_kinematics/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_01_dead_reckoning/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/minhyuk/ws_proj_07_final_project/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_06_pure_pursuit/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_05_perception/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_04_longitudinal_motion/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_03_lateral_dynamics/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_02_lateral_kinematics/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/ws_proj_01_dead_reckoning/devel/lib/python2.7/dist-packages",
+        "/home/minhyuk/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}
